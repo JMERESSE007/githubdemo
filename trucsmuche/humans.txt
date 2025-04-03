@@ -1,0 +1,7 @@
+created human
+
+human = human +0.5 
+
+human = human + human
+
+human = singe + human
